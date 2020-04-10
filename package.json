@@ -1,0 +1,23 @@
+{
+  "name": "mirror-wheels",
+  "version": "0.0.1",
+  "description": "Vue UI 框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiss-me-quickly/wheels.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "mirror",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kiss-me-quickly/wheels/issues"
+  },
+  "homepage": "https://github.com/kiss-me-quickly/wheels#readme"
+}
