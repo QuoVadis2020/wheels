@@ -4,6 +4,7 @@
   "description": "Vue UI 框架",
   "main": "index.js",
   "scripts": {
+    "dev": "npx parcel --no-cache index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
